@@ -1,0 +1,1 @@
+The requirements specify a 2-second response time for the Sales Buddy, although typical generative AI responses usually take over 10 seconds. Our team has successfully met this challenge before with help from Microsoft, who recommended using dedicated Provisioned Throughput Units (PTUs) to ensure performance, though this comes with a fixed monthly cost. 
